@@ -1,1 +1,1 @@
-Gadget shop coursework project for progamming.
+Gadget shop coursework project for programming.
